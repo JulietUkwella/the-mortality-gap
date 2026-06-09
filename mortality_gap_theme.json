@@ -1,0 +1,84 @@
+{
+  "name": "MortalityGap",
+  "dataColors": [
+    "#C4711A",
+    "#006B6B",
+    "#1F3864",
+    "#B03A2E",
+    "#5050A0",
+    "#F4F6F8",
+    "#EDEEF0"
+  ],
+  "background": "#EDEEF0",
+  "foreground": "#1F3864",
+  "tableAccent": "#C4711A",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{"value": "Segoe UI"}],
+        "fontSize": [{"value": 11}],
+        "color": [{"value": "#1F3864"}],
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#EDEEF0"}}}],
+        "wallpaper": [{"color": {"solid": {"color": "#EDEEF0"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "border": [{"color": {"solid": {"color": "#D0D7DE"}}}]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "fontFamily": [{"value": "Segoe UI"}],
+        "fontSize": [{"value": 10}],
+        "gridColor": [{"color": {"solid": {"color": "#D0D7DE"}}}],
+        "outlineColor": [{"color": {"solid": {"color": "#D0D7DE"}}}]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI",
+      "color": "#C4711A"
+    },
+    "title": {
+      "fontSize": 15,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F3864"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#1F3864"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#666666"
+    }
+  },
+  "good": "#006B6B",
+  "neutral": "#C4711A",
+  "bad": "#B03A2E",
+  "maximum": "#006B6B",
+  "center": "#C4711A",
+  "minimum": "#B03A2E",
+  "null": "#EDEEF0"
+}

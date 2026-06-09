@@ -79,10 +79,10 @@ Gbadegesin & Adeyemi · Nigerian Journal of Pharmacy · 2024 · Iregbu et al. ·
 ```
 the-mortality-gap/
 │
-├── README.md                              — Project overview and documentation
-├── MortalityGap_MasterData_Final.xlsx     — Master data file · 7 sheets · All confirmed figures
-├── mortality_gap_theme.json               — Power BI colour theme
-└── MortalityGap.pbix                      — Power BI dashboard file (added after build)
+├── MortalityGap_MasterData                      — Master data file · 7 sheets 
+├── MortalityGap.pbix                            — Power BI dashboard file 
+├── README.md                                    — Project overview and documentation
+└── mortality_gap_theme.json                     — Power BI colour theme 
 ```
 
 ---

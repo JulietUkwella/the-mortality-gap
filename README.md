@@ -1,6 +1,7 @@
 <meta name="google-site-verification" content="hE3uzftfzKMc8u49NoLVRJu7KBnVbICp19ezeEO7PQE" />
-# The Mortality Gap
-### A Health Systems Performance Analysis — Nigeria and Canada
+
+### The Mortality Gap
+### A Health Systems Performance Analysis - Nigeria and Canada
 
 ## Overview
 
@@ -9,7 +10,7 @@ Nigeria reports lower recorded diabetes prevalence than Canada. Yet its age-stan
 
 ## Central Finding
 
-> Nigeria has lower recorded diabetes prevalence than Canada. Yet its age-standardised diabetes mortality rate is 3.2 times higher, a ratio that grew from 1.7× in 2000 to 3.2× in 2023 as Canada's rate declined and Nigeria's fluctuated without a sustained downward trend. This divergence is consistent with structural differences in health system detection, treatment access, and care continuity, not differences in clinical knowledge or therapeutic options.
+Nigeria has lower recorded diabetes prevalence than Canada. Yet its age-standardised diabetes mortality rate is 3.2 times higher, a ratio that grew from 1.7× in 2000 to 3.2× in 2023 as Canada's rate declined and Nigeria's fluctuated without a sustained downward trend. This divergence is consistent with structural differences in health system detection, treatment access, and care continuity, not differences in clinical knowledge or therapeutic options.
 
 
 ## Dashboard Structure
@@ -87,7 +88,6 @@ the-mortality-gap/
 ## About
 
 **Juliet Uyo Ukwella**
-CAHIMS Candidate · IT Professional transitioning into Clinical Informatics
 First Class Honours — Information Technology · Postgraduate Certificate — Cybersecurity
 
 [GitHub](https://github.com/julietukwella/the-mortality-gap)

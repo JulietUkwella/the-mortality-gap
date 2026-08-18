@@ -78,8 +78,6 @@ the-mortality-gap/
 └── mortality_gap_theme.json                     — Power BI colour theme 
 ```
 
----
-
 ## View the Dashboard
 
  *(link to be added)*

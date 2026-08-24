@@ -25,17 +25,17 @@ Nigeria's recorded diabetes prevalence is lower than Canada's - 3.0% versus 7.7%
 |---|---|---|
 | 1 | The Paradox | Research question and methodology · 23-year ASMR trend · Diagnostic coverage gap |
 | 2 | The System Failures | Three measurable gaps quantified through the diabetes care cascade |
-| 3 | The Human Cost | System-level gaps at the individual level — discontinuity, financial inaccessibility, and avoidable clinical risk |
-| 4 | System-Level Recommendations | DETECT, REACH, CONNECT — each mapped to a confirmed gap and building on Nigeria's existing health infrastructure |
+| 3 | The Human Cost | System-level gaps at the individual level - discontinuity, financial inaccessibility, and avoidable clinical risk |
+| 4 | System-Level Recommendations | DETECT, REACH, CONNECT - each mapped to a confirmed gap and building on Nigeria's existing health infrastructure |
 | 5 | Methods | Data dictionary, methodology notes, uncertainty intervals, and full source list |
 
 ## Key Findings
 
-- Nigeria's age-standardised diabetes mortality rate: **28.5 per 100,000** (2023) vs Canada's **8.8** — a ratio of **3.2×**, up from 1.7× in 2000
+- Nigeria's age-standardised diabetes mortality rate: **28.5 per 100,000** (2023) vs Canada's **8.8** - a ratio of **3.2×**, up from 1.7× in 2000
 - Approximately **78.7%** of people with diabetes in Nigeria are undiagnosed, compared to 28.9% in Canada
-- Nigeria has **40,990 diabetes deaths annually** — against a backdrop of lower recorded prevalence
+- Nigeria has **40,990 diabetes deaths annually** - against a backdrop of lower recorded prevalence
 - Three system-level gaps drive the divergence: **diagnostic coverage, treatment access, and continuity of care**
-- Only **25.1%** of Nigerian diabetics receive treatment vs **67.0%** in Canada — driven by financial inaccessibility (71.9% out-of-pocket expenditure) and structural workforce constraints (3.8 vs 28.19 physicians per 10,000)
+- Only **25.1%** of Nigerian diabetics receive treatment vs **67.0%** in Canada - driven by financial inaccessibility (71.9% out-of-pocket expenditure) and structural workforce constraints (3.8 vs 28.19 physicians per 10,000)
 - WHO evidence indicates that up to **~80%** of preventable medication errors in low-resource settings originate at the prescribing stage
 - Canada's connected health information investment generates an estimated **$1 billion** in annual health system value
 

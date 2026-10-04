@@ -1,15 +1,15 @@
 <meta name="google-site-verification" content="hE3uzftfzKMc8u49NoLVRJu7KBnVbICp19ezeEO7PQE" />
-<meta name="description" content="The Mortality Gap — A Health Systems Performance Analysis of Diabetes Mortality in Nigeria and Canada by Juliet Uyo Ukwella, Health Informatics Researcher, CAHIMS Candidate." />
+<meta name="description" content="The Mortality Gap — A Health Systems Performance Analysis of Diabetes Mortality in Nigeria and Canada by Juliet Uyo Ukwella, Health Informatics Researcher" />
 <meta name="author" content="Juliet Uyo Ukwella" />
 <meta name="keywords" content="Juliet Uyo Ukwella, Juliet Ukwella, health informatics, diabetes mortality, Nigeria Canada, Power BI dashboard, CAHIMS, health systems analysis" />
 
 # The Mortality Gap
 ### A Health Systems Performance Analysis: Nigeria and Canada
-**Juliet Uyo Ukwella** · BSc (Hons) Information Technology · Postgraduate Certificate, Cybersecurity · CAHIMS Candidate
+**Juliet Uyo Ukwella** · BSc (Hons) Information Technology · Postgraduate Certificate, Cybersecurity
 
-## 🔴 Live Interactive Dashboard
+## Live Interactive Dashboard
 
-👉 [View The Mortality Gap - Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2VkYTM3NTUtZDk2NC00Yzg4LWJlYTMtOTI3NDhlZmYyMjRiIiwidCI6IjU1YWM3ZTZhLTJhY2MtNDJhYy1hNDYyLTJlMGYyMzQxM2NhNSJ9&pageName=243af2006c2a390b75ec)
+[View The Mortality Gap - Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2VkYTM3NTUtZDk2NC00Yzg4LWJlYTMtOTI3NDhlZmYyMjRiIiwidCI6IjU1YWM3ZTZhLTJhY2MtNDJhYy1hNDYyLTJlMGYyMzQxM2NhNSJ9&pageName=243af2006c2a390b75ec)
 
 ## Overview
 
@@ -75,15 +75,5 @@ Gbadegesin & Adeyemi · Nigerian Journal of Pharmacy · 2024 · Iregbu et al. ·
 | Microsoft Excel | Master data file, data modelling, long-format tables |
 | Power BI Service | Public interactive dashboard publication |
 | GitHub | Version control and project documentation |
-
-## About
-
-**Juliet Uyo Ukwella** is a health informatics researcher and IT professional. This study was conducted as an independent research contribution demonstrating applied health systems analysis, data visualisation, and evidence synthesis using publicly available global health datasets.
-
-[GitHub Profile](https://github.com/julietukwella)
-
-## Disclaimer
-
-This dashboard represents an independent health informatics research study produced as a professional contribution to the evidence base on diabetes health system performance. It is not intended for clinical use or policy decision-making without further peer review. All data are sourced from publicly available authoritative sources. Analysis reflects associations between health system indicators and mortality outcomes and does not establish causal mechanisms.
 
 *78,700 in every 100,000 - undiagnosed, uncounted, and outside the reach of care.*

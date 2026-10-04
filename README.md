@@ -7,8 +7,6 @@
 ### A Health Systems Performance Analysis: Nigeria and Canada
 **Juliet Uyo Ukwella** · BSc (Hons) Information Technology · Postgraduate Certificate, Cybersecurity
 
-## Live Interactive Dashboard
-
 [View The Mortality Gap - Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2VkYTM3NTUtZDk2NC00Yzg4LWJlYTMtOTI3NDhlZmYyMjRiIiwidCI6IjU1YWM3ZTZhLTJhY2MtNDJhYy1hNDYyLTJlMGYyMzQxM2NhNSJ9&pageName=243af2006c2a390b75ec)
 
 ## Overview
